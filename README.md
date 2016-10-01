@@ -1,5 +1,7 @@
+sample-i18n [![Build Status](https://travis-ci.org/jspringbot/sample-i18n.svg?branch=master)](https://travis-ci.org/jspringbot/sample-i18n)
+====
 jSpringBot Sample i18n
-=======
+
 
 ### Introduction
 
